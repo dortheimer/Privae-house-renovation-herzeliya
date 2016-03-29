@@ -1,4 +1,4 @@
-# Privae house renovation in Herzeliya
+# Private house renovation in Herzeliya
 
 Requirements:
 1. Living space: 50 SQM
