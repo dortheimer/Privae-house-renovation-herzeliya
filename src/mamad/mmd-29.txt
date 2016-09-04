@@ -1,0 +1,54 @@
+Transmittal Report:
+Created by AutoCAD eTransmit יום חמישי 11 אוגוסט 2016, 10:08.
+
+Drawing:
+This is a transmittal based on mmd-29.dwg.
+
+Files:
+
+Root Drawing:
+	mmd-29.dwg
+
+AutoCAD Font Map References:
+	acad.fmp
+
+AutoCAD Compiled Shape References:
+	Fonts\simplex.shx
+	Fonts\HEB.shx
+	Fonts\sivan.shx
+	Fonts\txtn.shx
+	Fonts\sivan_m.shx
+	Fonts\ATIR.shx
+	Fonts\hebtxt.shx
+	Fonts\txt.shx
+	Fonts\techno_m.shx
+	Fonts\miryl.shx
+	Fonts\mirym.shx
+	Fonts\michal_m.shx
+	Fonts\oron.shx
+	Fonts\romanc.shx
+	Fonts\BIGH.SHX
+
+AutoCAD Color-dependent Plot Style Table File References:
+	PlotCfgs\vered2000.ctb
+
+AutoCAD Plotter Configuration File References:
+	PlotCfgs\DesignJet 750C Plus C4709B.pc3
+	PlotCfgs\DWG To PDF.pc3
+
+
+Notes for distribution:
+
+.SHX fonts:
+Please copy these fonts to the AutoCAD Fonts directory and check with the font manufacturer about distribution rights.  Fonts supplied with AutoCAD are freely distributable.
+
+.PC3 printer configuration files:
+Please copy these files to the AutoCAD Printer Configuration Search Path directory.
+
+.CTB/.STB plot style tables:
+Please copy these files to the AutoCAD Plot Style Table Search Path directory.
+
+The AutoCAD variable FONTALT was set to:
+C:\Users\vered\appdata\roaming\autodesk\autocad 2011\r18.1\enu\support\simplex.shx
+Please make sure that the FONTALT variable is set to this file or an equivalent before opening any drawings.  All text styles with missing fonts are automatically set to this font.
+
